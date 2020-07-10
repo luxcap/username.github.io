@@ -1,0 +1,25 @@
+---
+author: "DON"
+title: "Man Economy and State"
+date: 2020-07-10T15:45:23+02:00
+draft: true
+
+
+resources:
+
+
+- src: man-economy-and-state.epub
+  title: Press text
+  params:
+    icon: epub
+    download: true
+---
+
+button  = true
+btnText = "Download"
+btnURL  = "http://localhost:1313/en/lean/hard/man-economy-and-state.epub"
+
+
+[test](localhost:1313/en/learn/hard/man-economy-and-state.epub)
+
+{{readFile "/content/learn/hard/man-economy-and-state.epub"}}
