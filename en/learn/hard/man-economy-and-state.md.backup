@@ -20,6 +20,6 @@ btnText = "Download"
 btnURL  = "http://localhost:1313/en/lean/hard/man-economy-and-state.epub"
 
 
-[test](localhost:1313/en/learn/hard/man-economy-and-state.epub)
+[test](http://localhost:1313/en/learn/hard/man-economy-and-state.epub)
 
 {{readFile "/content/learn/hard/man-economy-and-state.epub"}}
