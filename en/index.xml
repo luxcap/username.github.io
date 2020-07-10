@@ -6,10 +6,49 @@
     <description>Recent content on Lux ancaps WIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 15:53:27 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 15:45:23 +0200</lastBuildDate>
     
 	<atom:link href="https://luxcap.github.io/username.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Man Economy and State</title>
+      <link>https://luxcap.github.io/username.github.io/en/learn/hard/man-economy-and-state/</link>
+      <pubDate>Fri, 10 Jul 2020 15:45:23 +0200</pubDate>
+      
+      <guid>https://luxcap.github.io/username.github.io/en/learn/hard/man-economy-and-state/</guid>
+      <description>button = true btnText = &amp;ldquo;Download&amp;rdquo; btnURL = &amp;ldquo;http://localhost:1313/en/lean/hard/man-economy-and-state.epub&amp;rdquo;
+test</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of the State</title>
+      <link>https://luxcap.github.io/username.github.io/en/learn/easy/anatomy-of-the-state/</link>
+      <pubDate>Fri, 10 Jul 2020 15:43:52 +0200</pubDate>
+      
+      <guid>https://luxcap.github.io/username.github.io/en/learn/easy/anatomy-of-the-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://luxcap.github.io/username.github.io/en/blog/test1/</link>
+      <pubDate>Fri, 10 Jul 2020 11:06:56 +0200</pubDate>
+      
+      <guid>https://luxcap.github.io/username.github.io/en/blog/test1/</guid>
+      <description>test
+test </description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://luxcap.github.io/username.github.io/en/learn/test1/</link>
+      <pubDate>Fri, 10 Jul 2020 11:06:56 +0200</pubDate>
+      
+      <guid>https://luxcap.github.io/username.github.io/en/learn/test1/</guid>
+      <description>test
+test </description>
+    </item>
     
   </channel>
 </rss>

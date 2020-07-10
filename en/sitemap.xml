@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://luxcap.github.io/username.github.io/en/</loc>
+    <lastmod>2020-07-10T15:45:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://luxcap.github.io/username.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luxcap.github.io/username.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luxcap.github.io/username.github.io/en/learn/hard/man-economy-and-state/</loc>
+    <lastmod>2020-07-10T15:45:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luxcap.github.io/username.github.io/en/learn/easy/anatomy-of-the-state/</loc>
+    <lastmod>2020-07-10T15:43:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luxcap.github.io/username.github.io/en/blog/</loc>
+    <lastmod>2020-07-10T12:26:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://luxcap.github.io/username.github.io/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luxcap.github.io/username.github.io/en/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luxcap.github.io/username.github.io/en/blog/test1/</loc>
+    <lastmod>2020-07-10T11:06:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://luxcap.github.io/username.github.io/fr/blog/test1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luxcap.github.io/username.github.io/en/blog/test1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luxcap.github.io/username.github.io/en/learn/test1/</loc>
+    <lastmod>2020-07-10T11:06:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://luxcap.github.io/username.github.io/en/contact/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
     <xhtml:link
@@ -44,21 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luxcap.github.io/username.github.io/en/learn/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://luxcap.github.io/username.github.io/en/</loc>
-    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://luxcap.github.io/username.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luxcap.github.io/username.github.io/en/"
                 />
   </url>
   

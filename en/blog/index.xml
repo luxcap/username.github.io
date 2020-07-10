@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Lux ancaps WIP</title>
+    <link>https://luxcap.github.io/username.github.io/en/blog/</link>
+    <description>Recent content in Blog on Lux ancaps WIP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 12:26:10 +0200</lastBuildDate>
+    
+	<atom:link href="https://luxcap.github.io/username.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test1</title>
+      <link>https://luxcap.github.io/username.github.io/en/blog/test1/</link>
+      <pubDate>Fri, 10 Jul 2020 11:06:56 +0200</pubDate>
+      
+      <guid>https://luxcap.github.io/username.github.io/en/blog/test1/</guid>
+      <description>test
+test </description>
+    </item>
+    
+  </channel>
+</rss>

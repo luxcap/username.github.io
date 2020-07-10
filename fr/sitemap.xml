@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://luxcap.github.io/username.github.io/fr/blog/</loc>
+    <lastmod>2020-07-10T12:26:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luxcap.github.io/username.github.io/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://luxcap.github.io/username.github.io/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luxcap.github.io/username.github.io/fr/</loc>
+    <lastmod>2020-07-10T12:26:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luxcap.github.io/username.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://luxcap.github.io/username.github.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luxcap.github.io/username.github.io/fr/blog/test1/</loc>
+    <lastmod>2020-07-10T11:06:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luxcap.github.io/username.github.io/en/blog/test1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://luxcap.github.io/username.github.io/fr/blog/test1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://luxcap.github.io/username.github.io/fr/contact/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
     <xhtml:link
@@ -44,21 +89,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://luxcap.github.io/username.github.io/fr/learn/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://luxcap.github.io/username.github.io/fr/</loc>
-    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luxcap.github.io/username.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://luxcap.github.io/username.github.io/fr/"
                 />
   </url>
   
